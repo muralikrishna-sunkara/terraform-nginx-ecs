@@ -1,6 +1,7 @@
 # terraform-nginx-ecs
 
 Provision an NGINX web server on AWS ECS using Terraform.
+![Nginx ECS  EC2](https://github.com/user-attachments/assets/a9b0efcf-eeb9-42da-937d-c68d20509120)
 
 ## Overview
 
